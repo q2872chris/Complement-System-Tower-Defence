@@ -1,0 +1,91 @@
+C3b:C3 is the first protein in the Alternative pathway of the Complement system, it is switched from
+a passive state to an active state by the immune system and split into C3b and C3a, C3b then tries to find an invading
+pathogen to attach itself to, then it acts as a base for other proteins to attach to, to form more complex
+structures, changes into C3bB when combined with a B protein.;
+C3a:Formed when C3 splits into C3b and C3a (in this game C3 is formed by combining C3b and C3a which is the wrong way
+around compared to how it really works), C3a's stream away from the area with the pathogens and call for backup from
+other immune defences (eg phagocytes). C3a acts as a cytokine-a small cell signalling protein.;
+B:This attaches to the C3b which is currently embedded in an invading cell, the C3b acts as a hook and is the correct
+shape for the B protein to be able to combine with it to form C3bB.;
+D:In reality this protein doesn't bind to C3bB but instead 'hits' it and alters its shape, in doing so a Ba protein
+is released from the C3bB and it changes into a C3bBb protein. The D protein cleaves the B protein attached to the C3b
+protein into Ba and Bb, the Bb remains attached to the C3b leaving C3bBb.;
+P:The P protein attaches to C3bBb to form C3bBbp, this stabilises the C3bBb compound so later C5 Convertase can be formed.;
+C3bB:Formed when a B protein attaches to C3b, changes into C3bBb when combined with a D protein.;
+C3bBb:Formed when a D protein changes the shape of C3bB, changes into C3bBbp when combined with a P protein. As part
+of the alternative pathway C3bBb can be referred to as C3 Convertase and can cleave C3 into C3b and C3a. It however is
+labile (unstable/liable to change/easily altered) until a P combines with it to  form C3bBbp, it can undergo spontaneous
+decay through dissociation of Bb (the Bb separates itself).;
+C3bBbp:Formed when a P protein attaches to C3bBb, can change its shape to form C3 Convertase. C3bBb is referred to by
+some sources as being the C3 Convertase complex of the alternative pathway, C3bBbp is then a more stable compound that
+another C3b can bind to to form C5 Convertase.;
+C3 Convertase:Formed when C3bBbp changes its shape, C3 Convertase (C4b2b, formerly C4b2a) acts as a recruiting platform to activate more
+C3 proteins to form more C3 Convertase to attach to the pathogen, C3 Convertase can then act as a hook to help immune
+cells grab bacteria as bacteria are hard to immune cells to grab and engulf normally, joining a C3b with C3 Convertase
+forms C5 Convertase.;
+C5 Convertase:This protein is part of the first step in the Lytic or Terminal pathway,
+C5 Convertase, C4b2b3b, or (C3b)2BbP, can then split (cleave) C5 proteins into C5b and C5a. The special ability, while
+not real, is similar to a process that happens in the complement system, when C3a proteins stream away from
+the battlefield and call for backup, this is meant to represent the immune cells coming to help.;
+C3:This is the first protein the Alternative pathway, normally is split into C3b and C3a upon activation but in this
+game is formed by the combination of C3b and C3a.;
+C5:This is the first protein in the Lytic or Terminal pathway of the complement system, it's split into C5b and C5a
+upon activation, in this game however it is formed by the combination of C5b and C5a.;
+C5b:Formed by the splitting of C5 into C5b and C5a, acts as a base to start forming a more complex structure, the
+Membrane Attack Complex, C5b changes to C5bC6 when combined with a C6 protein.;
+C5a:Formed as a by-product of C5 being split into C5b and C5a, like C3a it will try and call for 'backup' (leukocytes/etc).
+Like C3a, C4a, and C2a, C5a acts as a cytokine-a small cell signalling protein.;
+C6:C6 attaches to C5b to form C5bC6.;
+C7:C7 attaches to C5bC6 to form C5b-C7.;
+C8:C8 attaches to C5b-C7 to form C5b-C8.;
+C9:Many C9's join with the Membrane Attack Complex to rip holes in attacking bacteria.;
+C5bC6:Formed when C6 protein combines with C5b, changes into C5b-C7 when combined with a C7 protein.;
+C5b-C7:Formed when C7 protein combines with C5bC6, changes into C5b-C8 when combined with a C8 protein.;
+C5b-C8:Formed when C8 protein combines with C5b-C7, then modifies itself to form the Membrane Attack Complex.;
+Attack Complex:Formed after C5b-C8 modifies its shape, C9's can then join with it to rip holes in the attacking
+bacteria (causing them to lyse, the reason for the lytic pathway being another name for the terminal pathway-
+breakdown their cell membranes) that this protein complex is attached to.;
+MBL:This is a specialised protein designed to attach itself to viruses in ones body, viruses drift aimlessly and
+MBL proteins when coming into contact with them render them useless and allow them to be picked up by other immune cells.;
+Utilities:While this is not a real protein the two abilities it has are meant to represent real complement
+processes, the first being summoning C3a's, C3a's stream away from the invaded area to call for immune cell
+backup, and the second being changing the water concentration, active complement proteins are neutralised
+quickly by water molecules if they don't find a target to protect one's own cells.;
+Ba:Formed as a by-product of the D protein changing the shape of the C3bB protein to form C3bBb. The B in C3bB
+is cleaved by D into Bb and Ba, the Ba is released while the Bb remains bound to the C3b to create C3bBb.;
+MASP-1:The Lectin pathway is similar to the Classical pathway, it starts with MBL, multimers (a protein molecule made up
+of 2 or more polypeptide chains, each referred to as monomers) of MBL form a complex with MASP-1, MASP-2, and MASP-3
+(they are similar to the C1r and C1s proteins), when MASP-1 is activated it can cleave C4 and C2 in the same way as C1s.;
+MASP-2:Forms complexes with multimers of MBL, MASP-2 can cleave C4 and C2 in the same way as C1s. After cleaving the
+Lectin pathway follows the Classical and then Alternative and Terminal/Lytic pathways as normal.;
+MBL Complex:MBL Complex-formed by multimers of MBL forming complexes with the MASP proteins.;
+C1q:The Classical pathway (another way of reaching C3 Convertase-like the Alternative pathway) is initiated by the binding
+of antigen-antibody complexes to the C1q protein, it then changes and activates the C1r protein. C1q is part of the inactive
+C1 complex which consists of six molecules of C1q, two molecules of C1r, and two molecules of C1s.;
+C1r:The activated C1r then cleaves and activates the C1s protein.;
+C1s:The activated C1s cleaves C4 into C4b and C4a, and cleaves C2 into C2b and C2a.;
+C1 Complex (1):This is a filler tower (not a real protein) in the combination sequence of C1q, C1r, and C1s, to make
+the C1 Complex, in reality they do not combine to make the C1 Complex, instead the inactive C1 Complex holds the C1q,
+C1r, and C1s proteins when not fighting off an attack.;
+C1 Complex (2):The C1 Complex is made up of one or six molecules of C1q, two molecules of C1r, and two molecules of C1s.
+In reality this protein is not created by the before mentioned other proteins combining to form it as part of the
+Classical pathway.;
+C4a:Cleaved (split) from C4 as part of the Classical or Lectin pathway, its primary use is to stabilise the C4 protein
+while it is inactive. C4a acts as a cytokine-a small cell signalling protein. C4a causes the degranulation of mast cells
+and basophils, which means something to someone.;
+C4b:Cleaved (split) from C4 as part of the Classical or Lectin pathway, will bind to a pathogen (eg a bacteria cell
+membrane, like the C3b protein does), then if not inactivated will combine with a C2b protein to form C4b2b
+(C4bC2b, classical C3 Convertase, C4b2a, or C4bC2a), this pathway now follows the rest of the Alternative pathway and the
+Lytic/Terminal pathway. (In the game C4a can be combined with C4b to create C4).;
+C2a:Cleaved (split) from C2 as part of the Classical or Lectin pathway, its primary use is to stabilise the C2 protein
+while it is inactive. C2a acts as a cytokine-a small cell signalling protein. C2a acts to increase vascular permeability.;
+C2b:Cleaved (split) from C2 as part of the Classical or Lectin pathway, will combine with a C4b protein embedded
+in a pathogen to form C4b2b (C3 Convertase), this pathway now follows the rest of the Alternative pathway and the
+Lytic/Terminal pathway. (In the game C2a can also be combined with C2b to create C2). Historically C2b was referred to as
+C3a, but the b postfix refers to the larger component, so it now is C2b.;
+C4:C4 is cleaved into C4b and C4a as part of the Classical or Lectin pathway, C4b and C2b come together to create
+C4b2b, historically C4b2a (C3 Convertase). In reality C4b and C4a don't bind to make C4. (The b postfix is given to the
+larger protein element, historically it often used to have the a postfix, eg would have been C4a instead of C4b).;
+C2:C2 is cleaved into C2b and C2a as part of the Classical or Lectin pathway, C4b and C2b come together to create
+C4b2b, historically C4b2a (C3 Convertase). In reality C2b and C2a don't bind to make C2 (The b postfix is given to the
+larger protein element, historically it often used to have the a postfix, eg would have been C2a instead of C2b).
