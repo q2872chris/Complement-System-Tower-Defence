@@ -1,0 +1,46 @@
+name,width,height,range,colour,cost,base,combination,cleave,show_base,locked,shop,unlock_tower,number,unlock wave,info
+C3,40,40,50,"255, 255, 255,",30,",",",","C3a, C3b,",,0,1,",",20,0,"C3, the first part of the complement cascade, it is cleaved by C3 Convertase into C3b and C3a"
+C3a,40,40,60,"100, 100, 0,",40,",",",",",",,1,1,",",0,0,Cleaved from C3
+C3b,40,40,50,"0, 100, 100,",35,"C3bBb, C4bC2b, C3bBbP,","C3bBbC3b, C4b2b3b, C3bBbPC3b,",",",C3 Convertase,1,1,"B,",0,0,Base for B
+B,40,40,70,"100, 0, 0,",45,"C3b,","C3bB,",",",C3b,1,1,"D,",0,0,Combines with C3b
+D,40,40,50,"0, 100, 0,",20,"C3bB,","C3bBb,","Ba,",C3bB,1,1,"P,",0,0,"Cleaves B into Bb and Ba while B is attached to C3b, therefore giving C3bBb and Ba"
+P,40,40,80,"0, 0, 100,",60,"C3bBb,","C3bBbP,",",",C3bBb,1,1,",",0,0,Stabalises C3bBbP as part of the alternative pathway to create a more stable C3 Convertase
+Bb,40,40,50,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+Ba,40,40,50,"0,0,0,",0,",",",",",",,1,1,",",0,0,The offshoot from D cleaving C3bB into C3bBb and Ba
+C3bB,40,40,50,"255, 0, 0,",70,",",",",",",,1,0,"D,",0,0,"Formed from the combination of C3b and B, a 'base' for D"
+C3bBb,40,40,50,"0, 255, 0,",75,",",",",",",,1,0,"P,",0,0,"Alternative pathway C3 Convertase, cleaves C3 into C3b and C3a, a base for C3b to create C5 Convertase"
+C3bBbP,40,40,50,"0, 0, 255,",80,",",",",",",,1,0,"C5, C5a, C5b,",0,0,"Alternative pathway stabilised C3 Convertase, cleaves C3 into C3b and C3a, a base for C3b to create C5 Convertase"
+C3bBbPC3b,40,40,90,"0,0,0,",0,",",",",",",,1,0,",",0,0,"Alternative pathway stabilised C5 Convertase, cleaves C5 into C5a and C5b"
+C3bBbC3b,40,40,70,"0,0,0,",0,",",",",",",,1,0,"C5, C5a, C5b,",0,0,"Alternative pathway C5 Convertase, cleaves C5 into C5a and C5b"
+C5,40,40,50,"255, 0, 255,",0,",",",",",",,1,1,",",0,0,The first step of the terminal pathway
+C5a,40,40,50,"255, 255, 0,",0,",",",",",",,1,1,",",0,0,The offshoot when C5 is cleaved
+C5b,40,40,50,"0, 255, 255,",0,",",",",",",,1,1,"C6,",0,0,A base for C6
+C6,40,40,50,"100, 100, 100,",0,"C5b,","C5b-6,",",",C5b,1,1,"C7,",0,0,Combines with C5b
+C7,40,40,50,"50, 130, 250,",0,"C5b-6,","C5b-6-7,",",",C5b-6,1,1,"C8,",0,0,Combines with C5bC6
+C8,40,40,50,"255, 100, 0,",0,"C5b-6-7,","C5b-6-7-8,",",",C5b-6-7,1,1,",",0,0,Combines with C5bC6C7
+C9,40,40,50,"100, 255, 0,",0,",",",",",",,1,1,"C1 Complex, C4b, C2,",0,0,"Multiple C9's, between 10 to 16, will join with C5bC6C7C8 to for the membrane attack complex"
+MAC,40,40,50,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+C5b-6,40,40,50,"0,0,0,",100,",",",",",",,1,0,"C7,",0,0,A base for C7
+C5b-6-7,40,40,50,"0,0,0,",105,",",",",",",,1,0,"C8,",0,0,A base for C9
+C5b-6-7-8,40,40,50,"0,0,0,",120,",",",",",",,1,0,"C9,",0,0,nan
+C1 Complex,40,40,50,"0,0,0,",0,"C4bC2,","C4bC2b,","C2a,",C4bC2,1,1,",",0,0,nan
+C4,40,40,0,"0,0,0,",0,",",",","C4b, C4a,",,1,1,",",0,0,nan
+C2,40,40,50,"0,0,0,",0,"C4b,","C4bC2,",",",C4b,1,1,",",0,0,nan
+C4b,40,40,50,"0,0,0,",0,",",",",",",,1,1,",",0,0,nan
+C4a,40,40,50,"0,0,0,",0,",",",",",",,1,1,",",0,0,nan
+C2a,40,40,50,"0,0,0,",0,",",",",",",,1,1,",",0,0,nan
+C2b,40,40,50,"0,0,0,",0,",",",",",",,1,1,",",0,0,nan
+C4bC2,40,40,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+C4bC2b,40,40,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,Clasical/lectin pathway C3 Convertase
+C4b2b3b,40,40,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,Clasical/lectin pathway C5 Convertase
+C1q,40,40,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+C1r,40,40,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+C1s,40,40,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+MBL,0,0,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+MASP-1,0,0,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+MASP-2,0,0,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+CD59,0,0,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+C1-inhibitor,0,0,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+Factor H,0,0,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+Factor I,0,0,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
+DAF,0,0,0,"0,0,0,",0,",",",",",",,1,0,",",0,0,nan
