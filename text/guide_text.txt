@@ -1,0 +1,5 @@
+-Tower defence game, drag and drop towers as normal to fight off waves of enemies. Click play to start a new round.
+-You can also combine certain towers together to make new ones. New towers will be unlocked throughout so make sure to try combinations.
+All towers are upgradable and sellable (click on them after they've been placed to view them), some have extra information and special upgrades/abilities.
+-The game can be saved at any point with a code and loaded again later. There is a leaderboard for highest wave reached.
+-Some extra info can be found on the science page. Try to keep the tower viewing (upgrades/info/etc) rectangle closed during waves due to lag. Enjoy the game.

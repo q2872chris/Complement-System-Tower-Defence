@@ -1,0 +1,40 @@
+-The complement system is the system of proteins in our bodies that act as part of the immune system.
+-The proteins drift around in a passive state most of the time, until activated by other parts of the immune system (eg antibodies) or by pathogens. When this happens they change their shape, meaning they can now interact and fit together with other proteins.
+-The alternative pathway starts with C3, which once activated, splits into C3a and C3b, C3a travels away from the area of pathogens to call for help from other immune cells (eg phagocytes). The immune cells then travel back along towards the fight and become more aggressive as they find more alarmed C3a proteins.
+
+-After the C3 splits the C3b can then combine with a B protein, have its shape changed by a D protein, combine with a P protein, and then change its shape again to form C3 Convertase.
+-C3bBb is the alternative pathway version of C3 Convertase.
+-C3 Convertase acts as a recruiting platform to activate more C3's to split into C3b's and C3a's to form more C3 Convertase proteins.
+-These embed themselves in the pathogens, slowing them down and crippling them.
+-In addition C3 Convertase proteins act as hooks in the bacteria so other immune cells can grab (and engulf) them without the bacteria slipping away.
+
+-The Lytic or terminal pathway starts when another C3b protein combines with a C3 Convertase, forming C5 Convertase.
+-C5 Convertase can then activate C5 proteins to split them into C5b and C5a, C5b can then combine with C6, C7, C8, and then change itself to form a larger structure, the Membrane Attack Complex. C9 proteins then attach to this protein and force open holes in the bacteria, ripping it apart.
+-Certain pathogens have built up defences against complement however, the Vaccinia virus can hijack cells to produce complement control proteins, creating safe zones for the virus, and some bacteria can take molecules out of the blood to become invisible to complement proteins.
+
+-In the game most proteins can't target 'camo' enemies (they have auras), and the vaccinia enemy stops all towers in its range attacking when it passes. There are also higher health enemies with auras that fade but they don't represent any real pathogen.
+-Complement in real life are tiny, much smaller than pathogens, there would really be 1000's to one pathogen, in this game the roles are reversed to make it work for a tower defence style game.
+-There are two other complement pathways used to create C3 Convertase, the classical and lectin pathways.
+
+-The classical pathway begins with the C1 Complex (containing the C1q, C1r, and C1s proteins).
+-Once C1q is activated it can activate C1r, which then activates C1s.
+-C1s then cleaves (splits) C4 into C4b and C4a, and C2 into C2b and C2a.
+-C4b and C2b then combine to make C4b2b (C3 Convertase).
+
+-The lectin pathway starts with MBL, multimers of MBL combine with MASP-1,2,and 3.
+-Once MASP-1 and MASP-2 are activated they start cleaving C4 and C2 like in the classical pathway.
+-After C3 Convertase is created it follows on in the same way as the end of the alternative pathway and the terminal/lytic pathway.
+-The proteins (eg B) can also be referred to as factors.
+
+-More information on the complement system can be found by playing the game (there is an info button on each tower which gives some more basic info on the proteins).
+-In addition there is a toggleable info button which allows you to see which other towers (proteins) a protein can combine with before it's placed instead of its cost.
+-The credits page contains a link to the Kurzgesagt video explaining the same concepts on the complement system.
+-There are some discrepancies between sources but I've tried to make everything clear in the individual protein tower info pages, along with any unrealistic game elements.
+
+-Kurzgesagt's representation of various protein types:
+
+-Kurzgesagt's representation of the protein pathway combinations:
+
+-Kurzgesagt's representation of the alternative pathway:
+
+-C3bB:

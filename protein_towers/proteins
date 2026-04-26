@@ -1,0 +1,48 @@
+name,width,height,cut,range,reload_time,bullet_lifespan,damage,upgrade_costs,colour,cost,base,combination,cleave,instant_cleave,show_base,unlocked,shop,unlock_towers,number,unlock wave,game_info,info
+C3,35,35,"275, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",30,",,",",,","C3a, C3b,",,,1,1,"C3a, C3b,",99,0,"C3, the first part of the complement cascade, it is cleaved by C3 Convertase into C3b and C3a ","C3 is the first protein in the Alternative pathway of the Complement system, it is switched from a passive state to an active state by the immune system and split into C3b and C3a, C3b then tries to find an invading pathogen to attach itself to, then it acts as a base for other proteins to attach to, to form more complex structures, changes into C3bB when combined with a B protein."
+C3a,35,35,"35, 0,",60,20,60,1,"15, 30, 15, 75,","200, 200, 200,",40,",,",",,",",,",,,1,1,",,",10,0,Cleaved from C3,"Formed when C3 splits into C3b and C3a (in this game C3 is formed by combining C3b and C3a which is the wrong way around compared to how it really works), C3a's stream away from the area with the pathogens and call for backup from other immune defences (eg phagocytes). C3a acts as a cytokine-a small cell signalling protein."
+C3b,35,35,"0, 0,",50,20,60,1,"15, 30, 20, 70,","200, 200, 200,",35,"C3bBb, C4bC2b, C3bBbP,","C3bBbC3b, C4b2b3b, C3bBbPC3b,",",,",,C3 Convertase,1,1,"B,",10,0,Base for B,"This attaches to the C3b which is currently embedded in an invading cell, the C3b acts as a hook and is the correct shape for the B protein to be able to combine with it to form C3bB."
+B,35,35,"70, 0,",70,20,60,1,"25, 35, 10, 80,","200, 200, 200,",45,"C3b,","C3bB,","Bb, Ba,",,C3b,1,1,"D,",99,0,Combines with C3b,"This attaches to the C3b which is currently embedded in an invading cell, the C3b acts as a hook and is the correct shape for the B protein to be able to combine with it to form C3bB."
+D,35,35,"105, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",20,"C3bB,","C3bBb,",",,",Ba,C3bB,1,1,"P,",99,0,"Cleaves B into Bb and Ba while B is attached to C3b, therefore giving C3bBb and Ba","In reality this protein doesn't bind to C3bB but instead 'hits' it and alters its shape, in doing so a Ba protein is released from the C3bB and it changes into a C3bBb protein. The D protein cleaves the B protein attached to the C3b protein into Ba and Bb, the Bb remains attached to the C3b leaving C3bBb."
+P,35,35,"150, 0,",80,20,60,1,"15, 30, 15, 75,","200, 200, 200,",60,"C3bBb,","C3bBbP,",",,",,C3bBb,1,1,",,",99,0,Stabilises C3bBb to form C3bBbP as part of the alternative pathway to create a more stable C3 Convertase,"The P protein attaches to C3bBb to form C3bBbp, this stabilises the C3bBb compound so later C5 Convertase can be formed."
+Bb,35,35,"210, 90,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,1,",,",10,0,Stays attached to C3b after being cleaved by D,
+Ba,35,35,"175, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,1,",,",10,0,The offshoot from D cleaving C3bB into C3bBb and Ba,
+C3bB,35,35,"0, 90,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",70,",,",",,",",,",,,1,0,"D,",10,0,"Formed from the combination of C3b and B, a 'base' for D","Formed when a B protein attaches to C3b, changes into C3bBb when combined with a D protein."
+C3bBb,35,35,"35, 90,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",75,",,",",,",",,",,,1,0,"Ba, Bb, P,",10,0,,"Alternative pathway C3 Convertase, cleaves C3 into C3b and C3a, a base for C3b to create C5 Convertase"
+C3bBbP,35,35,"70, 90,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",80,",,",",,",",,",,,1,0,",,",10,0,,"Alternative pathway stabilised C3 Convertase, cleaves C3 into C3b and C3a, a base for C3b to create C5 Convertase"
+C3bBbPC3b,35,35,"140, 90,",90,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,0,"C5,",10,0,,"Alternative pathway stabilised C5 Convertase, cleaves C5 into C5a and C5b"
+C3bBbC3b,35,35,"105, 90,",70,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,0,"C5,",10,0,,"Alternative pathway C5 Convertase, cleaves C5 into C5a and C5b"
+C5,35,35,"275, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,","C5a, C5b,",,,1,1,"C5b, C5a,",99,0,The first step of the terminal pathway,
+C5a,35,35,"245, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,1,",,",10,0,The offshoot when C5 is cleaved,
+C5b,35,35,"210, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,1,"C6,",10,0,A base for C6,
+C6,35,35,"0, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C5b,","C5b-6,",",,",,C5b,1,1,"C7,",99,0,Combines with C5b,
+C7,35,35,"35, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C5b-6,","C5b-7,",",,",,C5b-6,1,1,"C8,",99,0,Combines with C5b-6,
+C8,35,35,"70, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C5b-7,","C5b-8,",",,",,C5b-7,1,1,",,",99,0,Combines with C5b-7,
+C9,35,35,"105, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C5b-8,","C5b-9,",",,",,C5b-8 and C5b-9,1,1,",,",99,0,"Multiple C9's, between 10 to 16, will join with C5b-8 to become the MAC",
+C5b-9,35,35,"105, 125,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,0,"C1r, C1s, C1q, MBL,",10,0,The membrane attack complex (the MAC). Combine more C9s with it.,
+C5b-6,35,35,"0, 125,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",100,",,",",,",",,",,,1,0,"C7,",10,0,A base for C7,
+C5b-7,35,35,"35, 125,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",105,",,",",,",",,",,,1,0,"C8,",10,0,A base for C8,
+C5b-8,35,35,"70, 125,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",120,",,",",,",",,",,,1,0,"C9,",10,0,Forms the MAC,
+C1q,35,35,"140, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,1,"C1 Complex,",99,0,,One of these forms the base of the C1 Complex
+C1r,35,35,"175, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C1s,","C1rC1s,",",,",,C1s,0,1,"C1 Complex,",99,0,,Two of these pair with two C1s proteins to form part of the C1 Complex
+C1s,35,35,"210, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C1r,","C1rC1s,",",,",,C1r,0,1,"C1 Complex,",99,0,,Two of these pair with two C1r proteins to form part of the C1 Complex
+C1rC1s,35,35,"0, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,0,",,",10,0,,
+C1r2C1s2,35,35,"0, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,0,",,",10,0,,
+MBL,35,35,"175, 90,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,1,"MASP-1,",99,0,,Activates MASP-1
+C1 Complex,35,35,"175, 125,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C4bC2,","C4b2b,",",,",C2a,C4bC2,0,1,"C4, C2,",99,0,,"Formed from one C1q, two C1r, and two C1s. The bound C1s proteins cleave C4 and C2"
+MASP-1,35,35,"175, 160,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C4bC2,","C4b2b,","MASP-2,",C2a,C4bC2,0,1,"MASP-2, C2,",99,0,,Activates MASP-2 and can cleave C2
+MASP-2,35,35,"210, 160,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C4bC2,","C4b2b,",",,",C2a,C4bC2,0,1,"C4,",10,0,,Cleaves C2 and C4
+C2,35,35,"245, 35,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,"C4b,","C4bC2,","C2b, C2a,",,C4b,0,1,"C2b, C2a,",99,0,,Is cleaved into C2b and C2a
+C4,35,35,"140, 160,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,","C4b, C4a,",,,0,1,"C4b, C4a,",99,0,,Is cleaved into C4b and C4a
+C2a,35,35,"105, 160,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,1,",,",10,0,,Cleaved from C2
+C2b,35,35,"70, 160,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,1,",,",10,0,,Comines with C4b
+C4b,35,35,"0, 160,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,1,",,",10,0,,Base for C2b
+C4a,35,35,"35, 160,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,1,",,",10,0,,Cleaved from C4
+C4bC2,35,35,"0, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,1,0,",,",10,0,,Classical/Lectin pathway C3 Convertase before C2 is cleaved
+C4b2b,35,35,"210, 125,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,0,",,",10,0,,
+C4b2b3b,35,35,"140, 125,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,0,",,",10,0,,Classical/Lectin pathway C5 Convertase
+CD59,35,35,"0, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,0,",,",10,0,,
+C1-inhibitor,35,35,"0, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,0,",,",10,0,,
+Factor H,35,35,"0, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,0,",,",10,0,,
+Factor I,35,35,"0, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,0,",,",10,0,,
+DAF,35,35,"0, 0,",50,20,60,1,"15, 30, 15, 75,","200, 200, 200,",10,",,",",,",",,",,,0,0,",,",10,0,,

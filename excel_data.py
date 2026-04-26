@@ -1,0 +1,1 @@
+# Combine protein/enemy data readers better
